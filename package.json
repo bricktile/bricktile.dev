@@ -1,0 +1,12 @@
+{
+  "name": "bricktile.dev",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "dev": "saber",
+    "build": "saber build"
+  },
+  "dependencies": {
+    "saber": "^0.10.4"
+  }
+}
